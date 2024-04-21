@@ -9,7 +9,7 @@ using Firebase.Auth;
 using Firebase.Storage;
 
 
-namespace PracticaMVC.Controllers
+namespace Practica11.Controllers
 {
     public class practica11Controller : Controller
     {
